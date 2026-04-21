@@ -1,3 +1,10 @@
+// Problem: 1929. Concatenation of Array
+// Link: https://leetcode.com/problems/concatenation-of-array/
+// Difficulty: Easy
+// Approach: Create a new array of size 2*n and copy elements twice
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 import java.util.Scanner;
 
 public class Concatenation_of_Array_1929 {
